@@ -12,6 +12,17 @@ Project Members :
 
 5. Heidi Hindi 
 
+Information Technology Department Faculty of computers and information Luxor University
+
+
+Supervised By:
+
+
+Dr. Hussein Elshafie
+
+
+Dr. Ebrahim Elsayed
+
 
 ► A disabled person is enabled to move around independently using a mobile
 app (Flutter) and a voice recognition which is interfaced with motors through

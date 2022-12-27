@@ -1,4 +1,3 @@
-# Sm-Wheelchair-Embeded-System_project
 
 # Sm-Wheelchair-Embeded-System_project
 Project Members :
